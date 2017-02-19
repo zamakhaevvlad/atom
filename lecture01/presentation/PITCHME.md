@@ -29,11 +29,11 @@ Java 5+ years
 - [Homework 1           ]
 
 #HSLIDE
-- >[Course plan        ]<
+- *[Course plan__________]*
 - [Language architecture]
-- [Basic syntax         ]
-- [Gradle               ]
-- [Git                  ]
-- [Homework 1           ]
+- [Basic syntax_________]
+- [Gradle_______________]
+- [Git__________________]
+- [Homework 1___________]
 
 #HSLIDE
