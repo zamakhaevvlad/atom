@@ -5,7 +5,7 @@ lecture 1
 
 #HSLIDE
 # About me
-<img src="lecture01/presentation/assets/img/me.jpg" alt="me" style="width: 400px;"/>  
+<img src="lecture01/presentation/assets/img/me.jpg" alt="me" style="width: 250px;"/>  
 
 *Java 5+ years*  
 
