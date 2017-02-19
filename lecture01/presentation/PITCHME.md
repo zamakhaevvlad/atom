@@ -29,7 +29,8 @@ Java 5+ years
 6. Homework 1  
 
 #HSLIDE  
-1. [**Course plan**]  
+# Course plan  
+1. **[Course plan]**  
 2. Language architecture  
 3. Basic syntax  
 4. Gradle  
