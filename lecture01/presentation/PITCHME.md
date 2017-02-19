@@ -14,7 +14,7 @@ lecture 1
 - Currently lead developer at hh.ru
   
 
-**Люблю смотреть, как другие люди пишут тесты**  
+**Люблю смотреть, как другие пишут тесты**  
 
 alpieex@gmail.com
 
