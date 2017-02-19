@@ -5,11 +5,11 @@ lecture 1
 
 #HSLIDE
 # About me
-<img src="lecture01/presentation/assets/img/me.jpg" alt="me" style="width: 250px;"/>  
+<img src="lecture01/presentation/assets/img/me.jpg" alt="me" style="width: 200px;"/>  
 
 *Java 5+ years*  
 
-- Former software developer in Allods Team
+- Former software developer in Allods Team (Mail.Ru) Skyforge
 
 - Currently lead developer at hh.ru
   
