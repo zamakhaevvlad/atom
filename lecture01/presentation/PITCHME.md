@@ -7,7 +7,10 @@ lecture 1
 # About me
 <img src="lecture01/presentation/assets/img/me.jpg" alt="me" style="width: 200px; float: left;"/>  
 
-*Java 5+ years*  
+alpieex@gmail.com  
+[https://github.com/Al-p-i](https://github.com/Al-p-i)  
+
+Java 5+ years
 
 - Former software developer in Allods Team (Skyforge)
 
@@ -15,7 +18,5 @@ lecture 1
   
 
 **Люблю смотреть, как другие пишут тесты**  
-
-alpieex@gmail.com
 
 #HSLIDE
