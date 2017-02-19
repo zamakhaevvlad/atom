@@ -29,7 +29,7 @@ Java 5+ years
 [Homework 1]  
 
 #HSLIDE  
-**[Course plan]**  
+### **[Course plan]**  
 [Language architecture]  
 [Basic syntax]  
 [Gradle]  
