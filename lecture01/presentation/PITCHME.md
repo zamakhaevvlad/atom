@@ -7,10 +7,10 @@ lecture 1
 # About me
 <img src="lecture01/presentation/assets/img/me.jpg" alt="me" style="width: 200px; float: left;"/>  
 
- alpieex@gmail.com  
- [https://github.com/Al-p-i](https://github.com/Al-p-i)  
+  alpieex@gmail.com  
+  [https://github.com/Al-p-i](https://github.com/Al-p-i)  
 
- Java 5+ years
+  Java 5+ years
 
 - Former software developer in Allods Team (Skyforge)
 
