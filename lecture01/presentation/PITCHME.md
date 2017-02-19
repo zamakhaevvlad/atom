@@ -20,3 +20,10 @@ Java 5+ years
 **Люблю смотреть, как другие пишут тесты**  
 
 #HSLIDE
+# Agenda
+## - Course plan
+## - Language architecture
+## - Basic syntax
+## - Gradle
+## - Git
+## - Homework 1
