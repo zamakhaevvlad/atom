@@ -7,7 +7,7 @@ lecture 1
 # About me
 Java 5+ years
 - Former software developer in Allods Team (Mail.Ru) - Skyforge
-![sf](lecture01/presentation/assets/img/sf.png)
+<img src="lecture01/presentation/img/sf.png" alt="sf" style="width: 100px;"/>
 
 - currently lead developer at hh.ru
 
