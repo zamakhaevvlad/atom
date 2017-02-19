@@ -7,9 +7,9 @@ lecture 1
 # About me
 Java 5+ years  
 
-<img src="lecture01/presentation/assets/img/sf.png" alt="sf" style="width: 80px; float: left;"/> Former software developer in Allods Team
+<img src="lecture01/presentation/assets/img/sf.png" alt="sf" style="width: 80px;"/> Former software developer in Allods Team
 
-<img src="lecture01/presentation/assets/img/hh.png" alt="hh" style="width: 50px; float: left;"/> Currently lead developer at hh.ru
+<img src="lecture01/presentation/assets/img/hh.png" alt="hh" style="width: 50px;"/> Currently lead developer at hh.ru
 
 **Люблю смотреть, как другие люди пишут тесты**  
 
