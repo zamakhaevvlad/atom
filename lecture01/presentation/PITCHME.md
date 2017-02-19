@@ -21,12 +21,19 @@ Java 5+ years
 
 #HSLIDE
 # Agenda
-- Course plan
-- Language architecture
-- Basic syntax
-- Gradle
-- Git
-- Homework 1
+- [Course plan          ]
+- [Language architecture]
+- [Basic syntax         ]
+- [Gradle               ]
+- [Git                  ]
+- [Homework 1           ]
 
 #HSLIDE
-# Course plan
+- >[Course plan        ]<
+- [Language architecture]
+- [Basic syntax         ]
+- [Gradle               ]
+- [Git                  ]
+- [Homework 1           ]
+
+#HSLIDE
